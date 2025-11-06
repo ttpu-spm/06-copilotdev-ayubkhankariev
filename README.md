@@ -32,7 +32,7 @@ _Here you should put the URL of your final repository after finishing the given 
 
 1. Getting Started with GitHub Copilot: [_REPO LINK 1_](https://github.com/ayubkhankariev/skills-getting-started-with-github-copilot)
 2. Customize Your GitHub Copilot Experience: [_REPO LINK 2_](https://github.com/ayubkhankariev/skills-customize-your-github-copilot-experience)
-3. GitHub Copilot Code Review:  _REPO LINK 3_
+3. GitHub Copilot Code Review:  [_REPO LINK 3_](https://github.com/ayubkhankariev/skills-copilot-code-review-2/issues/1)
 4. Integrate MCP with GitHub Copilot: [_REPO LINK 4_](https://github.com/ayubkhankariev/skills-integrate-mcp-with-copilot)
 
 
